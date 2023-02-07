@@ -1,0 +1,33 @@
+{
+	"info" : {
+		"1-0i1" :
+		"Hello! You are playing the Laserpack levels. They are a set of levels made by LaserCat. They are short and fast, long and tedious, precision, and more. ",
+		"1-0i2" :
+		"You already need to know how to play SuperTux Advance to play these levels.",
+		"1-0i3" :
+		"These are still a work in progress. Also, they do not need to be played in order.",
+		"1-2i1" :
+		"In this level, you need to find and collect all coins."
+	},
+	"level" : {
+		"1-0" : "Info",
+		"1-1" : "Boing Wham Crunchcrunchcrunch",
+		"1-2" : "Needle and Thread",
+		"1-3" : "YEET",
+		"1-4" : "Bean Burrito 1: Explosions",
+		"1-5" : "Subsea Omega",
+		"1-6" : "Slip 'n' Slide Omega",
+		"1-7" : "Tux 'n'Trouble Omega",
+		"1-x" : "Test Level",
+		"1-old" : "Extra Bonus Level"
+	},
+	"devcom" : {
+		"1-0d1": "If you are reading this, you either hit the wrong key or you wanted to read the ramblings of a madcat level maker.",
+		"1-2d1": "This level revolves one of my favorite mechanics, slide-jumping and then landing in a one-tile-high gap."
+	},
+	"npc" : {
+		"null" : "",
+		"npc" :
+		"You Are Talking To An NPC"
+		}
+}

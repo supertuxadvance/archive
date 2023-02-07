@@ -1,0 +1,10 @@
+Scrapped levels for the main game and contrib worlds included with the base game
+
+- "nessland-Green"
+A very unfinished level scrapped for the second world. (made by frostC)
+
+- "fw-lost"
+A cut unfinished frostlands level. slightly modified to work with the new snow tiles. (made by frostC)
+
+- "0-0alt"
+scrapped 0-0 update made by ubuntujackson
