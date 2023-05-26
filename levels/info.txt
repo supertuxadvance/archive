@@ -4,6 +4,9 @@ Scrapped levels for the main game and contrib worlds included with the base game
 A very unfinished level scrapped for the second world. (made by frostC)
 
 
+- "nessland-shells"
+old version of Shells by the shore(made by frostC)
+
 - "nessland-earth"
 old version of down to earth(made by frostC)
 
